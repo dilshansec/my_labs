@@ -38,7 +38,7 @@ The goal is to build practical skills while maintaining clear documentation of m
 
 ## 🔧 Tools & Technologies
 
-- Parrot OS (WSL)
+- Parrot OS 
 - Hashcat
 - Nmap
 - Wireshark
@@ -48,6 +48,11 @@ The goal is to build practical skills while maintaining clear documentation of m
 - Burp Suite
 - Git
 - GitHub
+- More ...
+
+## ⚠ Disclaimer
+
+All labs in this repository are performed in controlled environments using self-generated data, intentionally vulnerable systems, or authorized learning platforms. Nothing here is intended for unauthorized access or misuse.
 
 
 

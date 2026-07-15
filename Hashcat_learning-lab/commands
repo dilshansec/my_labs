@@ -1,1 +1,3 @@
+ hashcat -m 0 hashes/md5.txt wordlists/sample-wordlist.txt
+
 

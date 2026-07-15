@@ -20,17 +20,8 @@ The goal is to build practical skills while maintaining clear documentation of m
 
   ## 📁 Repository Structure
 
-  ```text
-cybersecurity-labs/
-│
-├── hashcat-learning-lab/
-├── nmap-learning-lab/
-├── wireshark-learning-lab/
-├── hydra-learning-lab/
-├── gobuster-learning-lab/
-├── john-the-ripper-learning-lab/
-├── burpsuite-learning-lab/
-└── linux-learning-lab/
+<img width="287" height="257" alt="image" src="https://github.com/user-attachments/assets/3b73e7eb-ff9e-48b6-b7e0-74fe4ae08e94" />
+
 
 ## 🛠 Skills
 
